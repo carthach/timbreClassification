@@ -7,8 +7,11 @@ The orchestral sample is quite large, there is a script that pulls N number samp
 Sound samples have been taken from the following sources:-
 
 9th Wonder Kit - https://soundpacks.com/free-sound-packs/9th-wonder-drum-kit/
+
 Jahlil Beats Kit (Hipstrumentals.com) - http://www.hipstrumentals.com/2014/05/jahlil-beats-sound-kit-soundkit/
+
 Music Radar Drum Samples - http://cdn.mos.musicradar.com/audio/samples/musicradar-drum-samples.zip
+
 Vintage Drum Samples 24-bit - https://www.patreon.com/posts/samples-from-71-14944919
 
 Orchestral Samples - http://www.philharmonia.co.uk/explore/sound_samples
